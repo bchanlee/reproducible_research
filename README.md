@@ -7,7 +7,7 @@ This repository sets out the skeleton of an organisational structure used for sc
 Clone the repository and restructure as necessary.
 
 ```
-> git clone git@github.com:bchanlee/reproducible_research.git
+git clone git@github.com:bchanlee/reproducible_research.git
 ```
 
 Write a single text file (e.g. notes.txt) detailing everything
