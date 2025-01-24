@@ -33,4 +33,4 @@ Where all of the experimental information lives, including any *executed* code. 
  * **`exploratory`**: A sandbox where you keep a record of your different approaches to transformation, interpretation, cleaning, or generation of data.
  * **`processing`**: Any code used to *transform* the data into another type should live here. This can include everything from parsing of text data, image segmentation/filtering, or simulations.
  * **`analysis`**: Any code to to *draw conclusions* from an experiment or data set. This may include regression, dimensionality reduction, or calculation of various quantities.
- * **`figures`**: Any code used to generate figures for your finished work, presentations, or for any other use. Also contains the figures themselves
+ * **`figures`**: Any code used to generate figures for your finished work, presentations, or for any other use. Also contains the figures themselves.
