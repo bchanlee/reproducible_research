@@ -1,7 +1,7 @@
 # GitHub Template For Reproducible Research 
 
 ## Overview
-This repository sets out the skeleton of an organizational structure used for scientific research.
+This repository sets out the skeleton of an organisational structure used for scientific research.
 
 ## How to Use
 Clone the repository and restructure as necessary.
